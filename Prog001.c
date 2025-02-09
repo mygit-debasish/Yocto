@@ -3,7 +3,8 @@
 
 int main(int argc, char* argv[])
 {
-	printf("Hello Gothub.. \n");
+	printf("Hello Github.. \n");
+	printf("I am adding patch with this commit !\n");
 	return 0;
 
 }
