@@ -1,3 +1,11 @@
-
+# Ignore generated artifacts
+*.rootfs
+*.ext4
+*.wic
+*.wic.bmap
+*.manifest
+*.tar.bz2
+*.tar.gz
+*.iso*
 a.out
 *.patch
